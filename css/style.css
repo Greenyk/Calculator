@@ -23,9 +23,8 @@ body {
 
 
 .calculator{
-    height: 90vh;
-    min-width: 300px;
-    max-width: 300px;
+    height: 70vh;
+    width: 30vh;
     box-shadow: 17px 16px 36px -11px rgba(0,0,0,0.75);
     border-radius:20px;
     border: 1px solid rgba(29,27,27,0.303);
@@ -76,7 +75,7 @@ body {
 }
 
 .panel button {
-    font-size: 25px;
+    font-size: 40px;
     background-color: rgba(20, 107, 67, 0.151);
     color: pink;
     cursor: pointer; /* Po najechaniu nic się nie wyświetla */
